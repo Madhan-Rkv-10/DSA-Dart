@@ -7,4 +7,7 @@ void main(List<String> arguments) {
     " longest sub string${dsa_dart.lengthOfLongestSubstrings("madhanmasdas")}",
   );
     print("get single unpaired number${singleNumber([4, 1, 2, 1, 2])"}); // 4
+
+
+    print("get maxProfit  ${maxProfit([4, 11, 20, 1111, 230,6,7,8,9])"}); // 4
 }
